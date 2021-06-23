@@ -129,10 +129,10 @@
                                     </li>
                                     <li class="menu-icon"><a href="#">Location Saisonnière</a>
                                         <ul>
-                                            <li><a href="Location-SAisonniere.php?page=Appartement">Appartement</a></li>
-                                            <li><a href="Location-SAisonniere.php?page=Villa">Villa</a></li>
-                                            <li><a href="Location-SAisonniere.php?page=Agafay-Camp">Agafay Camp</a></li>
-                                            <li><a href="Location-SAisonniere.php?page=Chambre-Hôtel-Riad">Chambre Hôtel / Riad</a></li>
+                                            <li><a href="Location-Saisonniere.php?page=Appartement">Appartement</a></li>
+                                            <li><a href="Location-Saisonniere.php?page=Villa">Villa</a></li>
+                                            <li><a href="Location-Saisonniere.php?page=Agafay-Camp">Agafay Camp</a></li>
+                                            <li><a href="Location-Saisonniere.php?page=Chambre-Hôtel-Riad">Chambre Hôtel / Riad</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="Omari-Services.php">Omari Services</a></li>
