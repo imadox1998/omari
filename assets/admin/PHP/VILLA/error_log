@@ -1,0 +1,40 @@
+[18-Jun-2021 16:38:18 Africa/Casablanca] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`zenvesto_prjimmeuble`.`immeubleimage`, CONSTRAINT `immeubleimage_ibfk_2` FOREIGN KEY (`idimmeuble`) REFERENCES `immeuble` (`idm`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php:18
+Stack trace:
+#0 /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php(18): PDO->exec('insert into imm...')
+#1 {main}
+  thrown in /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php on line 18
+[18-Jun-2021 16:38:22 Africa/Casablanca] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`zenvesto_prjimmeuble`.`immeubleimage`, CONSTRAINT `immeubleimage_ibfk_2` FOREIGN KEY (`idimmeuble`) REFERENCES `immeuble` (`idm`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php:18
+Stack trace:
+#0 /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php(18): PDO->exec('insert into imm...')
+#1 {main}
+  thrown in /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php on line 18
+[18-Jun-2021 16:38:31 Africa/Casablanca] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`zenvesto_prjimmeuble`.`immeubleimage`, CONSTRAINT `immeubleimage_ibfk_2` FOREIGN KEY (`idimmeuble`) REFERENCES `immeuble` (`idm`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php:18
+Stack trace:
+#0 /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php(18): PDO->exec('insert into imm...')
+#1 {main}
+  thrown in /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php on line 18
+[18-Jun-2021 16:38:35 Africa/Casablanca] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`zenvesto_prjimmeuble`.`immeubleimage`, CONSTRAINT `immeubleimage_ibfk_2` FOREIGN KEY (`idimmeuble`) REFERENCES `immeuble` (`idm`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php:18
+Stack trace:
+#0 /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php(18): PDO->exec('insert into imm...')
+#1 {main}
+  thrown in /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php on line 18
+[18-Jun-2021 16:38:47 Africa/Casablanca] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`zenvesto_prjimmeuble`.`immeubleimage`, CONSTRAINT `immeubleimage_ibfk_2` FOREIGN KEY (`idimmeuble`) REFERENCES `immeuble` (`idm`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php:18
+Stack trace:
+#0 /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php(18): PDO->exec('insert into imm...')
+#1 {main}
+  thrown in /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php on line 18
+[18-Jun-2021 16:38:49 Africa/Casablanca] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`zenvesto_prjimmeuble`.`immeubleimage`, CONSTRAINT `immeubleimage_ibfk_2` FOREIGN KEY (`idimmeuble`) REFERENCES `immeuble` (`idm`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php:18
+Stack trace:
+#0 /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php(18): PDO->exec('insert into imm...')
+#1 {main}
+  thrown in /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php on line 18
+[18-Jun-2021 16:38:49 Africa/Casablanca] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`zenvesto_prjimmeuble`.`immeubleimage`, CONSTRAINT `immeubleimage_ibfk_2` FOREIGN KEY (`idimmeuble`) REFERENCES `immeuble` (`idm`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php:18
+Stack trace:
+#0 /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php(18): PDO->exec('insert into imm...')
+#1 {main}
+  thrown in /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php on line 18
+[18-Jun-2021 16:39:14 Africa/Casablanca] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`zenvesto_prjimmeuble`.`immeubleimage`, CONSTRAINT `immeubleimage_ibfk_2` FOREIGN KEY (`idimmeuble`) REFERENCES `immeuble` (`idm`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php:18
+Stack trace:
+#0 /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php(18): PDO->exec('insert into imm...')
+#1 {main}
+  thrown in /home/zenvesto/public_html/zenvestoradmin/PHP/VILLA/Ajouterimagevilla.php on line 18
