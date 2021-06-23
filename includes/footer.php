@@ -51,13 +51,13 @@
                     </div>
                     <div class="col-xl-2 col-md-6 col-sm-6 col-12">
                         <div class="footer-widget footer-menu-widget clearfix">
-                            <h4 class="footer-title">Sales</h4>
+                            <h4 class="footer-title">Vente</h4>
                             <div class="footer-menu">
                                 <ul>
                                     <li><a href="Appartement/index.php">Appartement</a></li>
                                     <li><a href="Villa/index.php">Villa</a></li>
                                     <li><a href="Riad/index.php">Riad</a></li>
-                                    <li><a href="Terrain/index.php">Ground</a></li>
+                                    <li><a href="Terrain/index.php">Terrain</a></li>
                                     <li><a href="Local Commercial /index.php">Local Commercial </a></li>
                                 </ul>
                             </div>
@@ -65,7 +65,7 @@
                     </div>
                     <div class="col-xl-2 col-md-6 col-sm-6 col-12">
                         <div class="footer-widget footer-menu-widget clearfix">
-                            <h4 class="footer-title">Long term rental</h4>
+                            <h4 class="footer-title">Location Longue Durée</h4>
                             <div class="footer-menu">
                                 <ul>
                                     <li><a href="Appartement/index.php">Appartement</a></li>
@@ -77,7 +77,7 @@
                     </div>
                     <div class="col-xl-2 col-md-6 col-sm-6 col-12">
                         <div class="footer-widget footer-menu-widget clearfix">
-                            <h4 class="footer-title">Seasonal rental</h4>
+                            <h4 class="footer-title">Location Saisonnière</h4>
                             <div class="footer-menu">
                                 <ul>
                                     <li><a href="Appartement/index.php">Appartement</a></li>

@@ -12,7 +12,7 @@
                         </h1>
                         <div class="ltn__breadcrumb-list">
                             <ul>
-                                <li><a href="../assets/index.html"><span class="ltn__secondary-color"><i class="fas fa-home"></i></span> Location Saisonnière</a></li>
+                                <li><a href="../assets/index.html"><span class="ltn__secondary-color"><i class="fas fa-home"></i></span> Ventes</a></li>
                                 <li><?php echo $_GET['page']; ?></li>
                             </ul>
                         </div>

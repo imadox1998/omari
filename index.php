@@ -1,4 +1,4 @@
 <?php
-header( 'Location: ENG/' );
+header( 'Location: FR/' );
 exit;
 ?>

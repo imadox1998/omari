@@ -110,24 +110,24 @@
                         <nav>
                             <div class="ltn__main-menu">
                                 <ul>
-                                    <li><a href="#">Home</a></li>
-                                    <li class="menu-icon"><a href="#">Sales</a>
+                                    <li><a href="./">Accueil</a></li>
+                                    <li class="menu-icon"><a href="#">Vente</a>
                                         <ul>
                                             <li><a href="Ventes.php?page=Appartement">Appartement</a></li>
                                             <li><a href="Ventes.php?page=Villa">Villa</a></li>
                                             <li><a href="Ventes.php?page=Riad">Riad</a></li>
-                                            <li><a href="Ventes.php?page=Terrain">Ground</a></li>
+                                            <li><a href="Ventes.php?page=Terrain">Terrain</a></li>
                                             <li><a href="Ventes.php?page=Local-Commercial">Local Commercial </a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-icon"><a href="#">Long term rental</a>
+                                    <li class="menu-icon"><a href="#">Location Longue Durée</a>
                                         <ul>
                                             <li><a href="Location-longue-duree.php?page=Appartement">Appartement</a></li>
                                             <li><a href="Location-longue-duree.php?page=Villa">Villa</a></li>
                                             <li><a href="Location-longue-duree.php?page=Local-Commercial">Local Commercial </a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-icon"><a href="#">Seasonal rental</a>
+                                    <li class="menu-icon"><a href="#">Location Saisonnière</a>
                                         <ul>
                                             <li><a href="Location-SAisonniere.php?page=Appartement">Appartement</a></li>
                                             <li><a href="Location-SAisonniere.php?page=Villa">Villa</a></li>
