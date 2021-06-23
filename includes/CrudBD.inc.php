@@ -18,7 +18,7 @@
 
     public function list($statu,$type){  
         
-        $servername = "localhost:3031";
+        $servername = "localhost:3306";
         $username = "sidagqec";
         $password = "iVU36Vbv@f@26";
         $dbname="prjimmeuble";
@@ -41,7 +41,7 @@
      return $res;
     }
 public function lastimg($id){
-        $servername = "localhost:3031";
+        $servername = "localhost:3306";
         $username = "sidagqec";
         $password = "iVU36Vbv@f@26";
         $dbname="prjimmeuble";
