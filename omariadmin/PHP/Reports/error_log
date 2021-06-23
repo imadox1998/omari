@@ -1,0 +1,346 @@
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php on line 9
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php on line 9
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php on line 9
+[03-Feb-2021 05:23:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php on line 9
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php on line 9
+[03-Feb-2021 05:23:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php on line 9
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php on line 9
+[03-Feb-2021 05:23:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php on line 9
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 9
+[03-Feb-2021 05:23:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 9
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php on line 9
+[03-Feb-2021 05:23:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php on line 9
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php on line 9
+[03-Feb-2021 05:23:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php on line 9
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php on line 3
+[03-Feb-2021 05:23:35 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php on line 9
+[03-Feb-2021 05:23:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php on line 9
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php on line 9
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php on line 9
+[03-Feb-2021 05:24:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php on line 9
+[03-Feb-2021 05:24:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php on line 9
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php on line 9
+[03-Feb-2021 05:24:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php on line 9
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php on line 9
+[03-Feb-2021 05:24:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php on line 9
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php on line 9
+[03-Feb-2021 05:24:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php on line 9
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 9
+[03-Feb-2021 05:24:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 9
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php on line 9
+[03-Feb-2021 05:24:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php on line 9
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php on line 3
+[03-Feb-2021 05:24:55 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php on line 9
+[03-Feb-2021 05:24:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php on line 9
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 9
+[03-Feb-2021 06:19:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 9
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php on line 9
+[03-Feb-2021 06:19:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php on line 9
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php on line 9
+[03-Feb-2021 06:19:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php on line 9
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php on line 9
+[03-Feb-2021 06:19:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php on line 9
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php on line 9
+[03-Feb-2021 06:19:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php on line 9
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php on line 9
+[03-Feb-2021 06:19:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php on line 9
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php on line 9
+[03-Feb-2021 06:19:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php on line 9
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php on line 3
+[03-Feb-2021 06:19:11 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php on line 9
+[03-Feb-2021 06:19:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php on line 9
+[03-Feb-2021 06:19:28 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 3
+[03-Feb-2021 06:19:28 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 3
+[03-Feb-2021 06:19:28 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 3
+[03-Feb-2021 06:19:28 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 9
+[03-Feb-2021 06:19:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 9
+[03-Feb-2021 06:30:37 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 3
+[03-Feb-2021 06:30:37 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 3
+[03-Feb-2021 06:30:37 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 3
+[03-Feb-2021 06:30:37 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 9
+[03-Feb-2021 06:30:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 9
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php on line 9
+[03-Feb-2021 06:54:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPV.php on line 9
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php on line 9
+[03-Feb-2021 06:54:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/APPL.php on line 9
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 9
+[03-Feb-2021 06:54:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/Vv.php on line 9
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php on line 9
+[03-Feb-2021 06:54:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php on line 9
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php on line 9
+[03-Feb-2021 06:54:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/VL.php on line 9
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php on line 9
+[03-Feb-2021 06:54:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php on line 9
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php on line 9
+[03-Feb-2021 06:54:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RL.php on line 9
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(../connection.php): failed to open stream: No such file or directory in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Warning:  include(): Failed opening '../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php on line 3
+[03-Feb-2021 06:54:20 America/New_York] PHP Notice:  Undefined variable: conn in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php on line 9
+[03-Feb-2021 06:54:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/RV.php on line 9
+[03-Feb-2021 13:13:55 Africa/Casablanca] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bestvfpp_immeuble.Terrain' doesn't exist in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php:11
+Stack trace:
+#0 /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/TV.php on line 11
+[03-Feb-2021 13:13:55 Africa/Casablanca] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bestvfpp_immeuble.LOCAL' doesn't exist in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php:11
+Stack trace:
+#0 /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php(11): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bestvfpp/public_html/marrakech/jalilabouya/PHP/Reports/LV.php on line 11
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/APPV.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/APPV.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(): Failed opening '../Connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/APPV.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on null in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/APPV.php on line 10
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/APPL.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/APPL.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(): Failed opening '../Connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/APPL.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on null in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/APPL.php on line 9
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/VL.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/VL.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(): Failed opening '../Connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/VL.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on null in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/VL.php on line 9
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/TV.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/TV.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(): Failed opening '../Connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/TV.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on null in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/TV.php on line 9
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/RL.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/RL.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(): Failed opening '../Connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/RL.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on null in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/RL.php on line 9
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/RV.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/RV.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(): Failed opening '../Connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/RV.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on null in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/RV.php on line 9
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/Vv.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/Vv.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(): Failed opening '../Connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/Vv.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on null in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/Vv.php on line 9
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/LV.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/LV.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Warning:  include(): Failed opening '../Connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/LV.php on line 3
+[17-Jun-2021 01:19:57 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on null in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/LV.php on line 9
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/APPV.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/APPV.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(): Failed opening '../Connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/APPV.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on null in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/APPV.php on line 10
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/VL.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/VL.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(): Failed opening '../Connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/VL.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on null in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/VL.php on line 9
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/APPL.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/APPL.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(): Failed opening '../Connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/APPL.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on null in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/APPL.php on line 9
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/Vv.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/Vv.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(): Failed opening '../Connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/Vv.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on null in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/Vv.php on line 9
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/RV.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/RV.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(): Failed opening '../Connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/RV.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on null in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/RV.php on line 9
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/RL.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/RL.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(): Failed opening '../Connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/RL.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on null in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/RL.php on line 9
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/TV.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/TV.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(): Failed opening '../Connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/TV.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on null in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/TV.php on line 9
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/LV.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(../Connection.php): failed to open stream: No such file or directory in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/LV.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Warning:  include(): Failed opening '../Connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/LV.php on line 3
+[20-Jun-2021 21:55:54 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on null in /home/zenvesto/public_html/zenvestoradmin/PHP/Reports/LV.php on line 9
