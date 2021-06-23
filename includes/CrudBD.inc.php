@@ -18,10 +18,10 @@
 
     public function list($statu,$type){  
         
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname="prjimmeuble";
+        $servername = "localhost:3031";
+        $username = "sidagqec";
+        $password = "iVU36Vbv@f@26";
+        $dbname="prjimmeuble";
         $conn=mysqli_connect($servername,$username, $password,$dbname);
         $res =array();
         $sql = "SELECT * FROM immeuble ";
@@ -41,10 +41,10 @@ $dbname="prjimmeuble";
      return $res;
     }
 public function lastimg($id){
-    $servername = "localhost";
-    $username = "root";
-    $password = "";
-    $dbname="prjimmeuble";
+        $servername = "localhost:3031";
+        $username = "sidagqec";
+        $password = "iVU36Vbv@f@26";
+        $dbname="prjimmeuble";
         $conn=mysqli_connect($servername,$username, $password,$dbname);
         $res ="";
         $sql = "SELECT i.path FROM immeubleimage b inner join image i on b.idimage=i.id where idimmeuble=".$id;

@@ -54,11 +54,11 @@
                             <h4 class="footer-title">Vente</h4>
                             <div class="footer-menu">
                                 <ul>
-                                    <li><a href="Appartement/index.php">Appartement</a></li>
-                                    <li><a href="Villa/index.php">Villa</a></li>
-                                    <li><a href="Riad/index.php">Riad</a></li>
-                                    <li><a href="Terrain/index.php">Terrain</a></li>
-                                    <li><a href="Local Commercial /index.php">Local Commercial </a></li>
+                                <li><a href="Ventes.php?page=Appartement">Appartement</a></li>
+                                <li><a href="Ventes.php?page=Villa">Villa</a></li>
+                                <li><a href="Ventes.php?page=Riad">Riad</a></li>
+                                <li><a href="Ventes.php?page=Terrain">Terrain</a></li>
+                                <li><a href="Ventes.php?page=Local-Commercial">Local Commercial </a></li>
                                 </ul>
                             </div>
                         </div>
@@ -68,9 +68,9 @@
                             <h4 class="footer-title">Location Longue Durée</h4>
                             <div class="footer-menu">
                                 <ul>
-                                    <li><a href="Appartement/index.php">Appartement</a></li>
-                                    <li><a href="Villa/index.php">Villa</a></li>
-                                    <li><a href="Local Commercial /index.php">Local Commercial </a></li>
+                                <li><a href="Location-longue-duree.php?page=Appartement">Appartement</a></li>
+                                <li><a href="Location-longue-duree.php?page=Villa">Villa</a></li>
+                                <li><a href="Location-longue-duree.php?page=Local-Commercial">Local Commercial </a></li>
                                 </ul>
                             </div>
                         </div>
@@ -80,10 +80,10 @@
                             <h4 class="footer-title">Location Saisonnière</h4>
                             <div class="footer-menu">
                                 <ul>
-                                    <li><a href="Appartement/index.php">Appartement</a></li>
-                                    <li><a href="Villa/index.php">Villa</a></li>
-                                    <li><a href="Agafay Camp/index.php">Agafay Camp</a></li>
-                                    <li><a href="Chambre-Hôtel-Riad/index.php">Chambre Hôtel / Riad</a></li>
+                                <li><a href="Location-Saisonniere.php?page=Appartement">Appartement</a></li>
+                                <li><a href="Location-Saisonniere.php?page=Villa">Villa</a></li>
+                                <li><a href="Location-Saisonniere.php?page=Agafay-Camp">Agafay Camp</a></li>
+                                <li><a href="Location-Saisonniere.php?page=Chambre-Hôtel-Riad">Chambre Hôtel / Riad</a></li>
                                 </ul>
                             </div>
                         </div>
