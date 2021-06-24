@@ -8,7 +8,7 @@
         include 'Connection.php';
         $conn=mysqli_connect($servername,$username, $password,$dbname);
         $res =array();
-        $sql = "SELECT * FROM immeuble Where Statue='".$statu."'and Type='".$type."' ";
+        $sql = "SELECT * FROM immeuble Where Statu='".$statu."'and Type='".$type."' ";
         if($result = mysqli_query($conn, $sql)){
             if(mysqli_num_rows($result) > 0){
                 while($row = mysqli_fetch_assoc($result)){
