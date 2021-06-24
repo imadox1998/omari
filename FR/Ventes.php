@@ -52,7 +52,7 @@
                                     <div class="col-lg-4 col-sm-6 col-12">
                                         <div class="ltn__product-item ltn__product-item-4 ltn__product-item-5 text-center---">
                                             <div class="product-img">
-                                                <a href="../assets/product-details.html?id=<?php echo $object['idm'];?>"><img src="../omariadmin/images/villa<?php echo $cbd->lastimg($object['idm']);?>" alt="#"></a>
+                                                <a href="../assets/product-details.html?id=<?php echo $object['idm'];?>"><img src="../omariadmin/images/villa/<?php echo $cbd->lastimg($object['idm']);?>" alt="#"></a>
                                                 <div class="real-estate-agent">
                                                     <div class="agent-img">
                                                         <a href="#"><img src="../assets/img/blog/author.jpg" alt="#"></a>
