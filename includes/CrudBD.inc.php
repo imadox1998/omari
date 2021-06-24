@@ -1,27 +1,11 @@
 <?php
-    require 'Connection.php';
+    
 	
 	class CrudBD{
-        public function con(){
-            
-                try {
-                    $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
-                    // set the PDO error mode to exception
-                    $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-                    return $conn;
-                    }
-                catch(PDOException $e)
-                    {
-                        return false;
-                    }
-        }
-
+       
     public function list($statu,$type){  
         
-        $servername = "localhost:3306";
-        $username = "sidagqec";
-        $password = "iVU36Vbv@f@26";
-        $dbname="prjimmeuble";
+        include 'Connection.php';
         $conn=mysqli_connect($servername,$username, $password,$dbname);
         $res =array();
         $sql = "SELECT * FROM immeuble ";
@@ -40,11 +24,8 @@
      }
      return $res;
     }
-public function lastimg($id){
-        $servername = "localhost:3306";
-        $username = "sidagqec";
-        $password = "iVU36Vbv@f@26";
-        $dbname="prjimmeuble";
+    public function lastimg($id){
+        include 'Connection.php';
         $conn=mysqli_connect($servername,$username, $password,$dbname);
         $res ="";
         $sql = "SELECT i.path FROM immeubleimage b inner join image i on b.idimage=i.id where idimmeuble=".$id;
