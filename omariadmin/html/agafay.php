@@ -461,5 +461,5 @@
 <?php
     include'tmp/footer.php';
 ?>
-<script src="./js/Riad/Agafay.js"></script>
+<script src="./js/Riad/agafay.js"></script>
 
